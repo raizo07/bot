@@ -9,4 +9,4 @@
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-[![All Contributors](https://img.shields.io/github/all-contributors/raizo07/bot?color=ee8449&style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/github/all-contributors/akiraonstarknet/starkfarm-client?color=ee8449&style=flat-square)](#contributors)
