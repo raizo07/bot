@@ -1,4 +1,21 @@
 {
-  "projectName": "<insert the repo's name>",
-  "projectOwner": "<insert the repo's owner/orgs>"
+  "projectName": "bot",
+  "projectOwner": "raizo07",
+  "files": [
+    "README.md"
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [
+    {
+      "login": "mexes07",
+      "name": "Samuel Ledemsy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127276944?v=4",
+      "profile": "https://github.com/mexes07",
+      "contributions": [
+        "code"
+      ]
+    }
+  ]
 }
